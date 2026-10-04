@@ -1,0 +1,19 @@
+# Compiled
+*.class
+*.pyc
+__pycache__/
+*.py[cod]
+
+# IDE / editor
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.venv/
+venv/
+.env
